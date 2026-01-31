@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "*.FCMacro": "python"
+    },
+    "markdown.extension.wikiLink.enabled": true,
+    "python.terminal.activateEnvironment": true,
+    "editor.rulers": [88]
+}
