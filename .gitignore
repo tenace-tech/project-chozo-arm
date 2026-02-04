@@ -1,0 +1,18 @@
+# Virtual Environment (The big one)
+.venv/
+venv/
+env/
+
+# Python compiled files (Bytecode)
+__pycache__/
+*.py[cod]
+*$py.class
+
+# VS Code settings (Optional - keeping this allows your team to share settings, 
+# but ignoring it is also valid. Since we committed settings.json earlier, 
+# let's NOT ignore .vscode for now).
+# .vscode/
+
+# OS junk
+.DS_Store
+Thumbs.db
